@@ -66,7 +66,5 @@ This project is part of the **DSA Data Analysis Capstone** and focuses on perfor
 DSA Data Analyst in Training  
 
 
----
 
-## 📂 Repository Structure
 
